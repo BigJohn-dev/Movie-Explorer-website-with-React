@@ -1,4 +1,4 @@
-Movie Explorer
+#Movie Explorer
 Overview
 Movie Explorer is a dynamic web application built with React, HTML, and CSS that allows users to discover and explore movies using data from the The Movie Database (TMDb) API. This project was created as a learning exercise to practice and enhance my skills in React development.
 
